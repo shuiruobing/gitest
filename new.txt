@@ -11,3 +11,5 @@ Git tracks changes of files2
 =======
 Git tracks changes of files2
 >>>>>>> dev
+
+creating a new branch is  quick AND simple.
